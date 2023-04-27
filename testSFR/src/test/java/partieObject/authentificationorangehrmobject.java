@@ -18,13 +18,6 @@ public class authentificationorangehrmobject {
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
 	// identification des elements 
 	
 	@FindBy (how = How.NAME , using ="username" )
