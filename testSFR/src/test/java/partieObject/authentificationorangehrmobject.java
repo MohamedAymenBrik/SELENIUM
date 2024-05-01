@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 public class authentificationorangehrmobject {
 	
 	
-	WebDriver driver;
+	public static WebDriver driver;
 
 	public authentificationorangehrmobject(WebDriver driver) {
 		this.driver= driver;
